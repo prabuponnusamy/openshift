@@ -1,0 +1,6 @@
+Red Hat OpenShift Service Mesh
+
+Red Hat OpenShift Service Mesh is a service mesh implementation for the Red Hat OpenShift Container Platform. OpenShift Service Mesh complements OpenShift Container Platform capabilities, adding many of the desired features of microservice architectures.
+
+Control plane
+Data plane
